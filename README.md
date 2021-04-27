@@ -3,7 +3,7 @@ jupyter notepad python ---pandas
 
 
 
-using jupyter notepad locally
+using jupyter notebook locally
 
 retrewing data with the help of csv(policedata.csv) file 
 
